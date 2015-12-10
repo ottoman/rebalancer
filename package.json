@@ -1,7 +1,7 @@
 {
   "name": "rebalancer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Radial Tree Map visualizing Portfolio Model Drift",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --colors -d --content-base src",
