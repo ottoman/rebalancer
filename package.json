@@ -1,0 +1,36 @@
+{
+  "name": "rebalancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors -d --content-base src",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint app"
+  },
+  "author": "ottojonsson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^5.2.16",
+    "babel-eslint": "^5.0.0-beta6",
+    "babel-loader": "^5.0.0",
+    "bootstrap": "^3.3.4",
+    "classnames": "^2.1.1",
+    "css-loader": "^0.12.0",
+    "d3": "^3.5.5",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.11.3",
+    "file-loader": "^0.8.1",
+    "flux": "^2.0.3",
+    "json-loader": "^0.5.1",
+    "less": "^2.5.0",
+    "less-loader": "^2.2.0",
+    "lodash": "^3.9.1",
+    "react": "^0.13.2",
+    "react-bootstrap": "^0.21.2",
+    "react-tooltip": "^0.2.1",
+    "style-loader": "^0.12.2",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.8.11"
+  }
+}

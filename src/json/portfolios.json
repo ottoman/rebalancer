@@ -1,0 +1,12 @@
+[{
+  "name": "Portfolio A",
+  "positions": [
+    { "symbol": "VTI", "qty": 100 },
+    { "symbol": "VIG", "qty": 136 },
+    { "symbol": "VEA", "qty": 240 },
+    { "symbol": "VWO", "qty": 250 },
+    { "symbol": "LQD", "qty": 45 },
+    { "symbol": "EMB", "qty": 32 },
+    { "symbol": "VNQ", "qty": 78 }
+  ]
+}]

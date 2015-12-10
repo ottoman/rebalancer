@@ -1,0 +1,122 @@
+[
+  {
+    "id": "VBR",
+    "desc": "Vanguard Small-Cap Value ETF",
+    "type": "eq",
+    "price": 100.34,
+    "type": "U.S. Stocks"
+  },
+  {
+    "id": "VIG",
+    "desc": "Vanguard Dividend Appreciation ETF",
+    "type": "eq",
+    "price": 78.05,
+    "type": "U.S. Stocks"
+  },
+  {
+    "id": "VOE",
+    "desc": "Vanguard Mid-Cap Value ETF",
+    "type": "eq",
+    "price": 86.44,
+    "type": "U.S. Stocks"
+  },
+  {
+    "id": "VTI",
+    "desc": "Vanguard Total Stock Market ETF",
+    "type": "eq",
+    "price": 104.98,
+    "type": "U.S. Stocks"
+  },
+  {
+    "id": "VTV",
+    "desc": "Vanguard Value ETF",
+    "type": "eq",
+    "price": 81.74,
+    "type": "U.S. Stocks"
+  },
+  {
+    "id": "EFV",
+    "desc": "iShares MSCI EAFE Value Index (ETF)",
+    "type": "eq int",
+    "price": 47.06,
+    "type": "Foregin Stocks"
+  },
+  {
+    "id": "VEA",
+    "desc": "Vanguard FTSE Developed Markets ETF",
+    "type": "eq int",
+    "price": 36.89,
+    "type": "Foregin Stocks"
+  },
+  {
+    "id": "VWO",
+    "desc": "Vanguard Emerging Markets ETF",
+    "type": "eq int",
+    "price": 32.81,
+    "type": "Foregin Stocks"
+  },
+  {
+    "id": "BND",
+    "desc": "Vanguard Total Bond Market ETF",
+    "type": "fi",
+    "price": 81.16,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "BNDX",
+    "desc": "Vanguard Charlotte Funds",
+    "type": "fi",
+    "price": 53.03,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "EMB",
+    "desc": "iShares JPMorgan USD Emer Mkt Bnd Fd ETF",
+    "type": "fi",
+    "price": 107.09,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "LQD",
+    "desc": "iShares IBoxx $ Invest Grade Corp Bd Fd",
+    "type": "fi",
+    "price": 115.27,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "SCHZ",
+    "desc": "Schwab Strategic Trust",
+    "type": "fi",
+    "price": 51.73,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "VTIP",
+    "desc": "Vanguard Asset Allocation Fund",
+    "type": "fi",
+    "price": 48.24,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "VWOB",
+    "desc": "Vanguard Whitehall Funds",
+    "type": "fi",
+    "price": 75.00,
+    "type": "Fixed Income"
+  },
+  {
+    "id": "VNQ",
+    "desc": "Vanguard REIT Index Fund",
+    "type": "other",
+    "price": 78.36,
+    "type": "Other",
+    "type": "Other"
+  },
+  {
+    "id": "VNQI",
+    "desc": "Vanguard International Equity Index Funds",
+    "type": "other",
+    "price": 51.87,
+    "type": "Other"
+  }
+]

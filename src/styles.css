@@ -1,0 +1,71 @@
+
+body {
+  margin-top: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.symbol {
+  margin-left: 10px;
+}
+
+.symbol-header {
+  font-size: 3em;
+  font-weight: 900;
+  margin: 0
+}
+
+.symbol-desc {
+  font-size: 1.2em;
+  color: #ddd
+}
+
+.arc-target {
+  fill: #2c3e50;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.arc {
+  stroke: #fff;
+  /*stroke-width: 1px;*/
+  cursor: pointer;
+}
+
+.arc-node {
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+.btn-adjust-pct {
+  border: none;
+  margin: 20px;
+  width: 40px;
+  height: 40px;
+  background: #ddd;
+  border-radius: 6px;
+}
+
+.btn-adjust-pct {
+  outline: none;
+}
+
+.btn-adjust-pct:hover {
+  background: #555;
+}
+
+.btn-adjust-pct:active {
+  background: #eee;
+}
+
+.btn-adjust-pct--icon {
+  color: #fff;
+  fontSize: 1.3em;
+}
+
+.btn-adjust-pct:active > .btn-adjust-pct--icon {
+  color: #555;
+}

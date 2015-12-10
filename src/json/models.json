@@ -1,0 +1,220 @@
+[{
+  "id": 1,
+  "name": "Wealthfront",
+  "target": 1,
+  "children": [
+    {
+      "id": "U.S. Stocks",
+      "target": 0.36,
+      "children": [
+        {
+          "desc": "Vanguard Total Stock Market ETF",
+          "id": "VTI",
+          "target": 0.21
+        },
+        {
+          "desc": "Vanguard Dividend Appreciation ETF",
+          "id": "VIG",
+          "target": 0.15
+        }
+      ]
+    },
+    {
+      "id": "Foregin Stocks",
+      "target": 0.33,
+      "children": [
+        {
+          "desc": "Vanguard FTSE Developed Markets ETF",
+          "id": "VEA",
+          "target": 0.18
+        },
+        {
+          "desc": "Vanguard Emerging Markets ETF",
+          "id": "VWO",
+          "target": 0.15
+        }
+      ]
+    },
+    {
+      "id": "Fixed Income",
+      "target": 0.17,
+      "children": [
+        {
+          "desc": "iShares IBoxx $ Invest Grade Corp Bd Fd",
+          "id": "LQD",
+          "target": 0.10
+        },
+        {
+          "desc": "iShares JPMorgan USD Emer Mkt Bnd Fd ETF",
+          "id": "EMB",
+          "target": 0.07
+        }
+      ]
+    },
+    {
+      "id": "Other",
+      "target": 0.14,
+      "children": [
+        {
+          "desc": "Vanguard REIT Index Fund",
+          "id": "VNQ",
+          "target": 0.14
+        }
+      ]
+    }
+  ] 
+},{
+  "id": 2,
+  "name": "Betterment",
+  "target": 1,
+  "children": [
+    {
+      "id": "U.S. Stocks",
+      "target": 0.42,
+      "children": [
+        {
+          "desc": "Vanguard Total Stock Market ETF",
+          "id": "VTI",
+          "target": 0.162
+        },
+        {
+          "desc": "Vanguard Value ETF",
+          "id": "VTV",
+          "target": 0.162
+        },
+        {
+          "desc": "Vanguard Mid-Cap Value ETF",
+          "id": "VOE",
+          "target": 0.052
+        },
+        {
+          "desc": "Vanguard Small-Cap Value ETF",
+          "id": "VBR",
+          "target": 0.044
+        }
+      ]
+    },
+    {
+      "id": "Foregin Stocks",
+      "target": 0.48,
+      "children": [
+        {
+          "desc": "Vanguard FTSE Developed Markets ETF",
+          "id": "VEA",
+          "target": 0.375
+        },
+        {
+          "desc": "Vanguard Emerging Markets ETF",
+          "id": "VWO",
+          "target": 0.105
+        }
+      ]
+    },
+    {
+      "id": "Fixed Income",
+      "target": 0.10,
+      "children": [
+        {
+          "desc": "Vanguard Charlotte Funds",
+          "id": "BNDX",
+          "target": 0.036
+        },
+        {
+          "desc": "Vanguard Total Bond Market ETF",
+          "id": "BND",
+          "target": 0.032
+        },
+        {
+          "desc": "iShares IBoxx $ Invest Grade Corp Bd Fd",
+          "id": "LQD",
+          "target": 0.017
+        },
+        {
+          "desc": "Vanguard Whitehall Funds",
+          "id": "VWOB",
+          "target": 0.015
+        }
+      ]
+    }
+  ] 
+},{
+  "id": 3,
+  "name": "FutureAdvisor",
+  "target": 1,
+  "children": [
+    {
+      "id": "U.S. Stocks",
+      "target": 0.335,
+      "children": [
+        {
+          "desc": "Vanguard Total Stock Market ETF",
+          "id": "VTI",
+          "target": 0.134
+        },
+        {
+          "desc": "Vanguard Value ETF",
+          "id": "VTV",
+          "target": 0.134
+        },
+        {
+          "desc": "Vanguard Small Cap ETF",
+          "id": "VBR",
+          "target": 0.067
+        }
+      ]
+    },
+    {
+      "id": "Foregin Stocks",
+      "target": 0.378,
+      "children": [
+        {
+          "desc": "Vanguard Emerging Markets ETF",
+          "id": "VWO",
+          "target": 0.162
+        },
+        {
+          "desc": "Vanguard FTSE Developed Markets ETF",
+          "id": "VEA",
+          "target": 0.132
+        },
+        {
+          "desc": "iShares MSCI EAFE Value Index (ETF)",
+          "id": "EFV",
+          "target": 0.084
+        }
+      ]
+    },
+    {
+      "id": "Fixed Income",
+      "target": 0.16,
+      "children": [
+        {
+          "desc": "Schwab Strategic Trust",
+          "id": "SCHZ",
+          "target": 0.088
+        },
+        {
+          "desc": "Vanguard Asset Allocation Fund",
+          "id": "VTIP",
+          "target": 0.072
+        }
+      ]
+    },
+    {
+      "id": "Other",
+      "target": 0.127,
+      "children": [
+        {
+          "desc": "Vanguard International Equity Index Funds",
+          "id": "VNQI",
+          "target": 0.063
+        },
+        {
+          "desc": "Vanguard REIT Index Fund",
+          "id": "VNQ",
+          "target": 0.063
+        }
+      ]
+    }
+  ] 
+}]
